@@ -2,7 +2,7 @@
 
 Companion code for **Token Budget Discipline: A Developer's Playbook for the Quota Era**.
 
-Blog: [`BLOG.md`](BLOG.md)
+Blog: [Token Budget Discipline: A Developer's Playbook for the Quota Era](https://medium.com/@shah.ravir/token-budget-discipline-a-developers-playbook-bdb8e2c2f80d)
 
 Related reading:
 
